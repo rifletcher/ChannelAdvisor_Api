@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelAdvisor_Api", "ChannelAdvisor_Api.csproj", "{AD09885E-4E08-418C-964E-2F90CF0EA53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD09885E-4E08-418C-964E-2F90CF0EA53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD09885E-4E08-418C-964E-2F90CF0EA53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD09885E-4E08-418C-964E-2F90CF0EA53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD09885E-4E08-418C-964E-2F90CF0EA53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B096AD3-4D7C-4EA8-B972-A2008DA2033B}
+	EndGlobalSection
+EndGlobal
