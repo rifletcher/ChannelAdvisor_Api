@@ -252,7 +252,7 @@ namespace ChannelAdvisor_Api.ViewModel
                     ShippingStatusFilter = ShippingStatus,
                     PaymentStatusFilter = PaymentStatus,
                     DetailLevel = "Complete",
-                    PageSize = 50,
+                    PageSize = 20,
                     ExportState = "NotExported",
                     PageNumberFilter = 0
                 };
